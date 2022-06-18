@@ -27,7 +27,7 @@
 ![image](https://user-images.githubusercontent.com/54426524/174443393-9ca9e5b6-e4ad-4393-97e2-fb527e54bfdb.png)
 ![image](https://user-images.githubusercontent.com/54426524/174443397-449b641b-bc7c-4d46-b3f4-9c289a7a4b6c.png)
 ## 个人贡献与评价
-# 个人贡献：<br>
+### 个人贡献：<br>
 * （1）抽象数学模型，分析理论最优解；
 * （2）提出反馈机制使算法逼近理论最优解；
 * （3）抽象与封装，确定数据结构与算法框架；
