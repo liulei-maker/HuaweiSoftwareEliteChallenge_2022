@@ -20,7 +20,7 @@
 ![image](https://user-images.githubusercontent.com/54426524/174443725-8dd2e37b-9f65-41c1-b471-96075598dc47.png)
 * （3）采用了贪心算法，探索机制等算法均匀分配剩余的95%的节点。
 ## 1.3 完成效果
-如上如结果可视化所示，在边缘节点top%5部分都被流所填满，在0~95%部分做均匀分布，且所有通过反馈机制使得所有节点和所有时间的流分布趋于一致，使得成本最小化。<br>
+如下如结果可视化所示，在边缘节点top%5部分都被流所填满，在0~95%部分做均匀分布，且所有通过反馈机制使得所有节点和所有时间的流分布趋于一致，使得成本最小化。<br>
 ![image](https://user-images.githubusercontent.com/54426524/174443365-00c539ba-aba8-453d-879e-c20fb4ae36af.png)
 ![image](https://user-images.githubusercontent.com/54426524/174443383-838d5e86-7ade-4370-9283-9065d13ecdef.png)
 ![image](https://user-images.githubusercontent.com/54426524/174443389-2a5354b4-363b-413e-bc21-c78f4363d73b.png)
